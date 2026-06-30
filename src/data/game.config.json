@@ -1,0 +1,57 @@
+{
+  "game": {
+    "name": "Defend your base from 67",
+    "slug": "defend-your-base-from-67",
+    "robloxId": "102669100769936",
+    "developer": "Simulator D2D",
+    "genre": "Defense / Survival",
+    "currentVersion": "Live build",
+    "lastVerified": "2026-06-30",
+    "platforms": ["Roblox", "PC", "Mobile", "Console"]
+  },
+  "stats": {
+    "status": "Verified from Roblox listing",
+    "coreLoop": "Upgrade your gate and turrets, then survive 67 breaking through",
+    "onlineNow": "Live Roblox experience",
+    "serverSize": "Unknown",
+    "active": true
+  },
+  "research": {
+    "officialGameUrl": "https://www.roblox.com/games/102669100769936/Defend-your-base-from-67",
+    "dataPolicy": "This site uses verified Roblox listing details and clearly labeled editorial strategy pages for defense planning, upgrade order, and survival guidance."
+  },
+  "seo": {
+    "siteTitle": "Defend your base from 67 Guide, Tier List & Defense Planner",
+    "siteDescription": "Fan-made Defend your base from 67 site with a clean beginner guide, defense planner, upgrade priority tier list, and honest code status tracking.",
+    "baseUrl": "https://defend-your-base-from-67.pages.dev",
+    "primaryKeywords": [
+      "Defend your base from 67",
+      "Defend your base from 67 Roblox",
+      "Defend your base from 67 guide",
+      "Defend your base from 67 tier list"
+    ],
+    "secondaryKeywords": [
+      "Defend your base from 67 codes",
+      "Defend your base from 67 upgrades",
+      "Defend your base from 67 turrets",
+      "Defend your base from 67 planner"
+    ],
+    "defaultOgImage": "/og-default.svg"
+  },
+  "links": {
+    "roblox": "https://www.roblox.com/games/102669100769936/Defend-your-base-from-67",
+    "community": "https://www.roblox.com/games/102669100769936/Defend-your-base-from-67"
+  },
+  "routes": [
+    { "path": "/", "title": "Home", "priority": "1.0" },
+    { "path": "/calculator", "title": "Planner", "priority": "0.95" },
+    { "path": "/codes", "title": "Codes", "priority": "0.9" },
+    { "path": "/tier-list", "title": "Tier List", "priority": "0.88" },
+    { "path": "/beginner-guide", "title": "Beginner Guide", "priority": "0.86" },
+    { "path": "/wiki", "title": "Wiki", "priority": "0.84" },
+    { "path": "/updates", "title": "Updates", "priority": "0.8" },
+    { "path": "/about", "title": "About", "priority": "0.4" },
+    { "path": "/terms", "title": "Terms", "priority": "0.3" },
+    { "path": "/privacy-policy", "title": "Privacy Policy", "priority": "0.3" }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": "gate-health-upgrades",
+      "slug": "gate-health-upgrades",
+      "name": "Gate Health Upgrades",
+      "category": "Defense Core",
+      "tier": "S",
+      "status": "Best early stabilizer",
+      "description": "If the gate falls, the run ends. Health upgrades are the cleanest way to stop early collapses while you are still building damage around them.",
+      "tags": ["gate", "survival", "early game"]
+    },
+    {
+      "id": "steady-turret-damage",
+      "slug": "steady-turret-damage",
+      "name": "Steady Turret Damage",
+      "category": "Damage",
+      "tier": "S",
+      "status": "Most reliable scaling",
+      "description": "Consistent turret damage reduces pressure every wave instead of gambling on last-second saves once 67 gets close to the base.",
+      "tags": ["turrets", "damage", "wave clear"]
+    },
+    {
+      "id": "turret-coverage",
+      "slug": "turret-coverage",
+      "name": "Turret Coverage",
+      "category": "Placement",
+      "tier": "A",
+      "status": "Strong mid-run payoff",
+      "description": "Good coverage matters because dead angles waste upgrades. A smaller number of well-placed turrets often beats sloppy expansion.",
+      "tags": ["placement", "lanes", "mid game"]
+    },
+    {
+      "id": "economy-upgrades",
+      "slug": "economy-upgrades",
+      "name": "Economy Upgrades",
+      "category": "Progression",
+      "tier": "A",
+      "status": "Scales longer runs",
+      "description": "Extra income matters once your base is no longer fragile. Economy upgrades shine when they accelerate a defense plan that is already stable.",
+      "tags": ["income", "progression", "long runs"]
+    },
+    {
+      "id": "panic-spending",
+      "slug": "panic-spending",
+      "name": "Panic Spending",
+      "category": "Decision Making",
+      "tier": "B",
+      "status": "Common trap",
+      "description": "Throwing currency at random low-impact upgrades during a breach feels active, but it usually means the earlier plan was too thin.",
+      "tags": ["mistakes", "spending", "recovery"]
+    },
+    {
+      "id": "greedy-glass-cannon",
+      "slug": "greedy-glass-cannon",
+      "name": "Greedy Glass Cannon",
+      "category": "Build Style",
+      "tier": "B",
+      "status": "Only after you know the waves",
+      "description": "Pure damage with too little gate safety can work, but it is usually worse than a balanced build until you know exactly when 67 spikes your base.",
+      "tags": ["high risk", "damage", "advanced"]
+    }
+  ]
+}
